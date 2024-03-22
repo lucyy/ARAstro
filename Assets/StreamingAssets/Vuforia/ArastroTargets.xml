@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="agujero-negro" size="50.000000 35.362904" />
+    <ImageTarget name="ATMOSFERA4" size="50.000000 33.328629" />
+    <ImageTarget name="meridiano-2" size="500.000000 353.629028" />
+    <ImageTarget name="merz" size="500.000000 706.955505" />
+    <ImageTarget name="inicio" size="500.000000 353.629028" />
+    <ImageTarget name="sistema-solar" size="500.000000 353.781525" />
+    <ImageTarget name="sismografos" size="500.000000 353.781525" />
+  </Tracking>
+</QCARConfig>

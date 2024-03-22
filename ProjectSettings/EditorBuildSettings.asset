@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Escenas/MenuEscena.unity
+    guid: 88c3bdab25538aa4bb112b0c05f3e515
+  - enabled: 1
+    path: Assets/Escenas/SaludoEscena.unity
+    guid: ac1a5d228a8443a4181a0cdd5b3d6a08
+  - enabled: 1
+    path: Assets/Escenas/AtmosferaEscena.unity
+    guid: 9e55e1550785e474d937bc4163f48dfe
+  - enabled: 1
+    path: Assets/Escenas/SolarEscena.unity
+    guid: 88c13d761ae4cca45ab5f6cd3c2ac855
+  - enabled: 1
+    path: Assets/Escenas/AgujeroEscena.unity
+    guid: 8dfee6ed6b5973f468e573e1debe58dd
+  - enabled: 1
+    path: Assets/Escenas/SismografosEscena.unity
+    guid: 1f14731fe99cdec4e8b25409bd0978c9
+  - enabled: 1
+    path: Assets/Escenas/MeridianoEscena.unity
+    guid: fdcb076e7428e474295d6c015cad5019
+  - enabled: 1
+    path: Assets/Escenas/MerzEscena.unity
+    guid: f4937b5ec9357d24897afed878b751a6
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f83146a7f07026043b4f36368a071c5b, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 1697bd78a277ee543b96f21223014cf0, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e6cad9181912fab45bc8727fcbb3e7b7, type: 2}

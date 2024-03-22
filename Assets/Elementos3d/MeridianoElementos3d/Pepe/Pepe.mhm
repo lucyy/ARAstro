@@ -1,0 +1,24 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags Pepe
+camera 0.0 0.0 0.137858913924 0.828416103793 -0.387610546471 1.7125
+modifier macrodetails-universal/Muscle 0.599000
+modifier macrodetails/African 0.000000
+modifier macrodetails-proportions/BodyProportions 0.500000
+modifier macrodetails/Gender 1.000000
+modifier macrodetails-height/Height 0.639000
+modifier breast/BreastSize 0.500000
+modifier macrodetails/Age 0.463000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Asian 0.000000
+modifier macrodetails/Caucasian 1.000000
+modifier macrodetails-universal/Weight 0.646000
+hair short01 766436e9-63ed-4f6a-afa9-99f3acff70a8
+eyes eyes_no_cornea 49780d06-dc97-4a11-9609-58bae49bfd33
+clothes male_elegantsuit01 1d2e3843-dda5-40a8-84a0-96666aa681bb
+clothes shoes03 ad622a26-da1e-4e3c-9f8e-454edf10d504
+clothesHideFaces True
+skinMaterial skins/default.mhmat
+material short01 766436e9-63ed-4f6a-afa9-99f3acff70a8 short01.mhmat
+material eyes_no_cornea 49780d06-dc97-4a11-9609-58bae49bfd33 eyes_no_cornea.mhmat
+subdivide False
